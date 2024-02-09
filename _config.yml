@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "S0UN-RGB"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Red, Blue, and GREEN"
+  location         : "S0UN"
   email            :
   links:
     - label: "Email"
